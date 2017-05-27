@@ -59,9 +59,13 @@ class Main{
         ?>
                 </div>
             </main>
-            <footer>
+            <footer class="page-footer red darken-4">
                 <div class="container">
-                    fhakjsdfhads<
+                    <div class="row">
+                        <div class="col s12 center">
+                            <p class="grey-text text-lighten-4">Para mayor información contáctanos al <br>Teléfono: 5250-2975 <br> Correo: decorwoodgt@gmail.com</p>
+                        </div>
+                    </div>
                 </div>
             </footer>
             <!--Import jQuery before materialize.js-->
