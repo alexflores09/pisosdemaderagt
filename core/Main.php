@@ -32,10 +32,10 @@ class Main{
             <header>
                 <div class="banner valign-wrapper">
                 </div>
-                <nav>
+                <nav class="red darken-4">
                     <div class="nav-wrapper">
                         <a href="#" data-activates="mobile-demo" class="button-collapse right"><i class="material-icons">menu</i></a>
-                        <ul id="nav-mobile" class="hide-on-med-and-down">
+                        <ul id="nav-mobile" class="hide-on-med-and-down brand-logo center">
                             <li><a href="index.php">Inicio</a></li>
                             <li><a href="index.php?page=Servicios">Servicios</a></li>
                             <li><a href="index.php?page=Galeria">Galería</a></li>
@@ -62,8 +62,10 @@ class Main{
             <footer class="page-footer red darken-4">
                 <div class="container">
                     <div class="row">
-                        <div class="col s12 center">
-                            <p class="grey-text text-lighten-4">Para mayor información contáctanos al <br>Teléfono: 5250-2975 <br> Correo: decorwoodgt@gmail.com</p>
+                        <div class="center">
+                            <p class="grey-text text-lighten-4 flow-text">
+                                Para mayor información contáctanos al <br> Teléfono: 5250-2975 <br> Correo: decorwoodgt@gmail.com
+                            </p>
                         </div>
                     </div>
                 </div>
