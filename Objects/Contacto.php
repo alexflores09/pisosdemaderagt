@@ -6,7 +6,14 @@
  * Date: 27/05/2017
  * Time: 7:58 PM
  */
-class Contaco
-{
+use main\Object;
 
+class Contacto implements Object {
+    function __construct(){
+
+    }
+
+    public function draw(){
+        print "Hola Contacto";
+    }
 }

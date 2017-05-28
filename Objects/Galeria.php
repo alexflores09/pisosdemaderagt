@@ -6,7 +6,14 @@
  * Date: 27/05/2017
  * Time: 7:58 PM
  */
-class Galeria
-{
+use main\Object;
 
+class Galeria implements Object {
+    function __construct(){
+
+    }
+
+    public function draw(){
+        print "Hola Galeria";
+    }
 }
