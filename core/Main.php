@@ -30,7 +30,10 @@ class Main{
         </head>
         <body>
             <header>
-                <div class="banner valign-wrapper">
+                <div class="row banner">
+                    <div>
+                        <img src="img/logo.png">
+                    </div>
                 </div>
                 <nav class="red darken-4">
                     <div class="nav-wrapper">

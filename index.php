@@ -12,7 +12,7 @@ include_once("core/Main.php");
 $strPage = $_GET["page"] ?? "Index";
 
 $objMain = new Main();
-$strFile = "Objects/{$strPage}/{$strPage}.php";
+$strFile = "Objects/{$strPage}.php";
 if(file_exists($strFile)){
     include_once($strFile);
     if(class_exists($strPage)){

@@ -10,5 +10,29 @@ main {
 }
 
 .banner{
-    height: 150px;
+    margin-top: 20px;
+}
+.banner div{
+    width: 380px;
+    margin: 0 auto;
+}
+.banner div img{
+    width: 380px;
+}
+
+@media screen and (max-width: 380px) {
+    .banner div{
+        width: 280px;
+    }
+    .banner div img{
+        width: 280px;
+    }
+}
+@media screen and (max-width: 280px) {
+    .banner div{
+        width: 200px;
+    }
+    .banner div img{
+        width: 200px;
+    }
 }
