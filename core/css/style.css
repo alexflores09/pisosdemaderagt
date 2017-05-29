@@ -9,8 +9,24 @@ main {
     flex: 1 0 auto;
 }
 
+.mainLoading{
+    width: auto;
+    position: fixed;
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+    bottom: 0;
+    right: 0;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.mainLoading .flow-text{
+    float: right;
+    margin-left: 10px;
+}
+
 .banner{
-    margin-top: 20px;
+    margin: 0;
+    padding: 20px 0;
 }
 .banner div{
     width: 380px;
@@ -35,4 +51,8 @@ main {
     .banner div img{
         width: 200px;
     }
+}
+
+#divMaps{
+    height: 400px;
 }
