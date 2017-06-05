@@ -21,7 +21,7 @@ abstract class Main{
         $headers .= "\r\n"."From: noreply@pisosdemadera.com.gt";
         if(!empty($copy))$headers .= "\r\n"."Cc: {$copy}";
 
-        if(@mail("",$subject,$message,$headers)){
+        if(@mail("alexflores09.06.90@gmail.com",$subject,$message,$headers)){
             return true;
         }
         else{
