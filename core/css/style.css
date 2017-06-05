@@ -27,6 +27,9 @@ main {
 .banner{
     margin: 0;
     padding: 20px 0;
+    background-image: url('../../img/banner.jpg');
+    background-repeat: repeat;
+    background-size: contain;
 }
 .banner div{
     width: 380px;

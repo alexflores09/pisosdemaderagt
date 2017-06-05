@@ -36,7 +36,7 @@ if(file_exists($strFile)){
     include_once($strFile);
     if(class_exists($strPage)){
         $objTheme->header();
-        $objController = new $strPage();
+        $objController = new $strPage($_REQUEST);
         if(method_exists($objController,"draw")){
             $objController->draw();
         }

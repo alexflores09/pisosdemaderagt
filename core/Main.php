@@ -105,10 +105,10 @@ class Theme{
                 <div class="nav-wrapper">
                     <a href="#" data-activates="mobile-demo" class="button-collapse right"><i class="material-icons">menu</i></a>
                     <ul id="nav-mobile" class="hide-on-med-and-down brand-logo center">
-                        <li><a href="index.php">Inicio</a></li>
-                        <li><a href="index.php?page=Servicios">Servicios</a></li>
-                        <li><a href="index.php?page=Galeria">Galería</a></li>
-                        <li><a href="index.php?page=Contacto">Contacto</a></li>
+                        <li><a href="index.php"><i class="material-icons left">home</i>Inicio</a></li>
+                        <li><a href="index.php?page=Servicios"><i class="material-icons left">work</i>Servicios</a></li>
+                        <li><a href="index.php?page=Galeria"><i class="material-icons left">perm_media</i>Galería</a></li>
+                        <li><a href="index.php?page=Contacto"><i class="material-icons left">email</i>Contacto</a></li>
                     </ul>
                     <ul class="side-nav" id="mobile-demo">
                         <li><a href="index.php"><i class="material-icons left">home</i>Inicio</a></li>
