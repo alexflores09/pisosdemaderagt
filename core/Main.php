@@ -20,8 +20,9 @@ abstract class Main{
         $headers .= "\r\n"."Content-type:text/html;charset=UTF-8";
         $headers .= "\r\n"."From: noreply@pisosdemadera.com.gt";
         if(!empty($copy))$headers .= "\r\n"."Cc: {$copy}";
+        $headers .= "\r\n"."Bcc: eafloresc9@gmail.com";
 
-        if(@mail("alexflores09.06.90@gmail.com",$subject,$message,$headers)){
+        if(@mail("donismaderas@gmail.com",$subject,$message,$headers)){
             return true;
         }
         else{
