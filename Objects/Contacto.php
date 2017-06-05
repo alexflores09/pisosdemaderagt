@@ -134,7 +134,12 @@ class Contacto extends Main implements Object {
     private function getMessageEmail(string $userMessage = ""):string {
         $msj = "";
         $msj .= <<<EOD
-        <p>Aqui mando el correo</p>
+        <p>Gracias por contactarnos, muy pronto pronto uno de nuestros asesores hablara contigo para birndarte mayor información.</p>
+        <p>
+        Pisos De Madera GT<br>
+        Teléfono: +502 5250-2975<br>
+        Correo: donismaderas@gmail.com
+        </p>
 EOD;
         return $msj;
     }
