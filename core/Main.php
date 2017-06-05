@@ -133,7 +133,9 @@ class Theme{
                 <div class="row">
                     <div class="center">
                         <p class="grey-text text-lighten-4 flow-text">
-                            Para mayor información contáctanos al <br> Teléfono: +502 5250-2975 <br> Correo: decorwoodgt@gmail.com
+                            Para mayor información contáctanos al <br>
+                            <i class="material-icons">phone</i> +502 5250-2975 <br>
+                            <i class="material-icons">email</i> donismaderas@gmail.com
                         </p>
                     </div>
                 </div>

@@ -48,9 +48,8 @@ class Contacto extends Main implements Object {
                 <p class="flow-text">¿Quieres hacer algunas renovaciones? Escríbenos o llámanos. Tenemos la mejor disposición para proveerte toda la información que necesites y ayudarte con cualquier pregunta que puedas tener.</p>
                 <p class="flow-text">
                     <b>¡Contáctanos!</b><br>
-                    1-800-000-0000  //  info@misitio.com
-                    Av. Los Rosales 122,
-                    28012, Madrid.
+                    +502 5250-2975  //  donismaderas@gmail.com
+
                 </p>
             </div>
             <div class="col s12 m6 l6">
