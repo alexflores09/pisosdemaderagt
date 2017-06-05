@@ -97,8 +97,7 @@ class Galeria implements Object {
                             <img class="materialboxed" src="img/pisos/piso-<?php print $i; ?>.jpg">
                         </div>
                         <div class="card-content">
-                            <p>I am a very simple card. I am good at containing small bits of information.
-                                I am convenient because I require little markup to use effectively.</p>
+                            <p>Demostración de piso.</p>
                         </div>
                     </div>
                 </div>
@@ -127,8 +126,7 @@ class Galeria implements Object {
                             <img class="materialboxed" src="img/escaleras/escaleras-<?php print $i; ?>.jpg">
                         </div>
                         <div class="card-content">
-                            <p>I am a very simple card. I am good at containing small bits of information.
-                                I am convenient because I require little markup to use effectively.</p>
+                            <p>Demostración de escaleras.</p>
                         </div>
                     </div>
                 </div>
@@ -157,8 +155,7 @@ class Galeria implements Object {
                             <img class="materialboxed" src="img/otros/otros-<?php print $i; ?>.jpg">
                         </div>
                         <div class="card-content">
-                            <p>I am a very simple card. I am good at containing small bits of information.
-                                I am convenient because I require little markup to use effectively.</p>
+                            <p>Demostración de mantenimiento de restauración.</p>
                         </div>
                     </div>
                 </div>
