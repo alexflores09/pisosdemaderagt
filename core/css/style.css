@@ -27,7 +27,7 @@ main {
 .banner{
     margin: 0;
     padding: 20px 0;
-    background-image: url('../../img/banner.jpg');
+    background-image: url('../../img/banner.png');
     background-repeat: repeat;
     background-size: contain;
 }
@@ -63,4 +63,10 @@ main {
 .adds-slide{
     background-color: #3c1d17;
     margin: 10px 0;
+}
+.card-main{
+    min-height: 122px;
+}
+.card-main > div{
+    width: 100%;
 }

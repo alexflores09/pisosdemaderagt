@@ -28,29 +28,31 @@ class Index implements Object {
             </div>
             <div class="col s12">
                 <div class="carousel carousel-slider">
-                    <a class="carousel-item"><img src="img/escaleras/escaleras-1.jpg"></a>
-                    <a class="carousel-item"><img src="img/pisos/piso-7.jpg"></a>
-                    <a class="carousel-item"><img src="img/otros/otros-1.jpg"></a>
+                    <a class="carousel-item"><img src="img/slider_1.png"></a>
+                    <a class="carousel-item"><img src="img/slider_2.png"></a>
+                    <a class="carousel-item"><img src="img/slider_3.png"></a>
+                    <a class="carousel-item"><img src="img/slider_4.png"></a>
+                    <a class="carousel-item"><img src="img/slider_5.png"></a>
                 </div>
             </div>
             <div class="col s4">
-                <div class="card brown">
+                <div class="card brown card-main valign-wrapper center">
                     <div class="card-content white-text center">
-                        <p class="flow-text">Materiales de cladidad &nbsp;<i class="material-icons">done</i></p>
+                        <p class="flow-text">Materiales de cladidad</p>
                     </div>
                 </div>
             </div>
             <div class="col s4">
-                <div class="card brown">
+                <div class="card brown card-main valign-wrapper center">
                     <div class="card-content white-text center">
-                        <p class="flow-text">Satisfacción garantizada &nbsp;<i class="material-icons">done</i></p>
+                        <p class="flow-text">Satisfacción garantizada</p>
                     </div>
                 </div>
             </div>
             <div class="col s4">
-                <div class="card brown">
+                <div class="card brown card-main valign-wrapper center">
                     <div class="card-content white-text center">
-                        <p class="flow-text">Precios accesibles &nbsp;<i class="material-icons waves-green">done</i></p>
+                        <p class="flow-text">Precios accesibles</p>
                     </div>
                 </div>
             </div>
