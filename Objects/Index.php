@@ -61,9 +61,8 @@ class Index implements Object {
                     dist:0,
                     shift:30,
                     padding:20,
-                    full_width:true,
+                    fullWidth:true,
                 });
-                $('.carousel.carousel-slider').carousel({fullWidth: true});
                 window.setInterval(function(){$('.carousel').carousel('next')},3000);
             });
         </script>
